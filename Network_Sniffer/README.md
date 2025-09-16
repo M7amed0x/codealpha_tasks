@@ -27,6 +27,6 @@ A simple Python script designed to monitor and interpret network traffic in real
 
 **•** Packet Analysis: Parses captured packets to extract and display relevant information such as Ethernet frame details, IPv4 packet details (including ICMP, TCP, and UDP), etc.
 
-**•**Error Handling: Implements robust error handling mechanisms using try-except blocks to gracefully handle exceptions that may occur during packet processing or sniffing.
+**•** Error Handling: Implements robust error handling mechanisms using try-except blocks to gracefully handle exceptions that may occur during packet processing or sniffing.
 
-**•**Customization: Easily customizable with options to configure capture timeout, output format, and more.
+**•** Customization: Easily customizable with options to configure capture timeout, output format, and more.
