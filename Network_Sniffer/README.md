@@ -1,18 +1,18 @@
-**CodeAlpha_Basic_Network_Sniffer**
+***CodeAlpha_Basic_Network_Sniffer***
 
 Task 1 in CodeAlpha's Cyber Security Internship
 
-**OverView**
+***OverView***
 
 A simple Python script designed to monitor and interpret network traffic in real time, helping users understand how packets are formed and transmitted.
 
-**Requirements**
+***Requirements***
 
  **•** Scapy library (pip install scapy)
 
  **•** Npcap (Nmap Packet Capture Library) or WinPcap but less preferrable
 
- **Usage**
+ ***Usage***
 
  1. Clone the repository:
 
@@ -20,7 +20,7 @@ A simple Python script designed to monitor and interpret network traffic in real
 
  4. python3 script.py
 
-**Features**
+***Features***
 
 
 **•** Packet Capture: Utilizes the Scapy library to capture network packets in real-time.
