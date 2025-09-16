@@ -16,7 +16,7 @@ A simple Python script designed to monitor and interpret network traffic in real
 
  1. Clone the repository:
 
-   git clone https://github.com/M7amed0x/codealpha_tasks/edit/main/Network_Sniffer.git
+     git clone https://github.com/M7amed0x/codealpha_tasks/edit/main/Network_Sniffer.git
 
  4. python3 script.py
 
