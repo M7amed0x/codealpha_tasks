@@ -1,4 +1,4 @@
-****CodeAlpha_Phishing_Awareness****
+***CodeAlpha_Phishing_Awareness***
 
 Task 2 in CodeAlpha CyberSecurity Internship
 
